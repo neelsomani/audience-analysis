@@ -1,0 +1,4 @@
+beautifulsoup4==4.5.3
+pandas==0.25.3
+parallel-python-twitter==0.2.0
+python-twitter==3.5
