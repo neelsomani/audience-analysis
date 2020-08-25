@@ -4,7 +4,9 @@
 
 **This tool streams a user's Twitter followers (by parallelizing the Twitter API requests across API keys) and infers various attributes about each individual follower, including their email address and LinkedIn profile.**
 
-You can skip straight to the [approach](#approach) if you'd like, which describes why this solution wins over others. Directly below I provide the motivation to demonstrate that this solution solves multiple related problems aside from the [one described by @balajis](https://github.com/balajis/twitter-export).
+Update (8/25/2020): This project was awarded a finalist bounty for @balajis's [Twitter followers export challenge](https://github.com/balajis/twitter-export).
+
+You can skip straight to the [approach](#approach) if you'd like, which describes why this solution wins over others. Directly below I provide the motivation to demonstrate that this solution solves multiple related problems aside from the [one described by @balajis](https://github.com/balajis/twitter-export/blob/master/README.md#problem-exporting-followers-from-twitter).
 
 ## Motivation
 
